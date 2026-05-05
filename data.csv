@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+BigDL,Jason Dai (Intel),2016,Apache 2.0,Yes,Apache Spark,Scala,"Scala, Python",,,No,No,,Yes,Yes,Yes,,,Yes
+Caffe,Berkeley Vision and Learning Center,2013,BSD,Yes,"Linux, macOS, Windows[3]",C++,"Python, MATLAB, C++",Yes,Under development[4],Yes,No,Yes,Yes[5],Yes,Yes,No,?,No[6]
+Chainer,Preferred Networks,2015,BSD,Yes,"Linux, macOS",Python,Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No[7]
+Deeplearning4j,Skymind engineering team; Deeplearning4j community; originally Adam Gibson,2014,Apache 2.0,Yes,"Linux, macOS, Windows, Android (Cross-platform)","C++, Java","Java, Scala, Clojure, Python (Keras), Kotlin",Yes,No[8],Yes[9][10],No,Computational Graph,Yes[11],Yes,Yes,Yes,Yes[12],Yes
+DeepSpeed,Microsoft,2019,Apache 2.0,Yes,"Linux, macOS, Windows","Python, C++, CUDA",Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Dlib,Davis King,2002,Boost Software License,Yes,Cross-platform,C++,"C++, Python",Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Fastai,fast.ai,2018,Apache 2.0,Yes,"Linux, macOS, Windows","Python, CUDA",Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Flux,Mike Innes,2017,MIT,Yes,"Linux, macOS, Windows (Cross-platform)",Julia,Julia,,,Yes,No,Yes,Yes[13],Yes,Yes,No,Yes,Yes
+Horovod,Uber Technologies,2017,Apache 2.0,Yes,"Linux, macOS, Windows","Python, C++, CUDA",Python,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Intel Data Analytics Acceleration Library,Intel,2015,Apache 2.0,Yes,"Linux, macOS, Windows on Intel CPU[14]","C++, Python, Java","C++, Python, Java[14]",Yes,No,No,No,Yes,No,,Yes,,Yes,Yes
+Intel Math Kernel Library 2017 [15] and later,Intel,2017,Proprietary,No,"Linux, macOS, Windows on Intel CPU[16]","C/C++, DPC++, Fortran",C[17],Yes[18],No,No,No,Yes,No,Yes[19],Yes[19],,No,Yes
+Google JAX,Google,2018,Apache 2.0,Yes,"Linux, macOS, Windows",Python,Python,,,Only on Linux,No,Yes,No,,,,Yes,Yes
+Keras,François Chollet,2015,MIT,Yes,"Linux, macOS, Windows",Python,"Python, R",Only if using Theano as backend,"Can use Theano, Tensorflow or PlaidML as backends",Yes,No,Yes,Yes[20],Yes,Yes,No[21],Yes[22],Yes
+MATLAB + Deep Learning Toolbox (formerly Neural Network Toolbox),MathWorks,1992,Proprietary,No,"Linux, macOS, Windows","C, C++, Java, MATLAB",MATLAB,No,No,Train with Parallel Computing Toolbox and generate CUDA code with GPU Coder[23],No,Yes[24],Yes[25][26],Yes[25],Yes[25],Yes,With Parallel Computing Toolbox[27],Yes
